@@ -1,0 +1,19 @@
+
+h2{
+    text-align:center;
+}
+
+#nome{
+
+    width: 50%;
+
+}
+
+#Endereco{
+
+    width:50%;
+}
+
+#mensagem{
+    background-color:red;
+}
